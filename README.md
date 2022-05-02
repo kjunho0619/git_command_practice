@@ -98,7 +98,7 @@ $ git branch -b branch_name
 $ git pull origin master
 ```
 
-//vsCode 에서 현재 경로의 폴더 열기
+# vsCode 에서 현재 경로의 폴더 열기
 ```bash
 $ code . -r ['.'은 현재 경로, r속성은 현재 열린 vscode편집기에서 열기]
 ```
